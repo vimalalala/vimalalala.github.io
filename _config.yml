@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jon Rowe
-email: mail@jonrowe.com
+title: Vimala Rowe
+email: mail@vimala.tv
 description: >- # this means to ignore newlines until "baseurl:"
-  Pioneering Synthetic Realities
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zerozero.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vimalalala.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -39,22 +39,27 @@ remote_theme: broccolini/swiss
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-repository: jonrowe/zerozero.github.io
+repository: vimalalala/vimalalala.github.io
 theme_color: white
 
 sass:
   sass_dir: _sass
 
 collections:
-  projects:
+  collaborations:
     output: true
-  devlog:
+  reviews:
+    output: true
+  media:
+    output: true
+  gigs:
     output: true
 collections_dir: collections
 
+future: true
 #facebook_url:
 #twitter_url:
-linkedin_url: http://www.linkedin.com/in/mrjonrowe
+#linkedin_url:
 #googleplus_url:
 #pinterest_url:
 #instagram_url:

@@ -3,7 +3,7 @@ layout: page
 title: Contact
 menu: Contact
 permalink: /contact/
-order: 5
+order: 6
 
 forms:
   - to: info@jonrowe.com

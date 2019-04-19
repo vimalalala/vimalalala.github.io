@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-strapline: Pioneering Synthetic Realities
+#strapline: Pioneering Synthetic Realities
 slider:
     text_color: white
     shadow_color: black
     slides:
-        - image: /images/hmd.jpg
+        - image: /images/vimalalala/vimala.jpg
 #        - image: /images/ATT.jpg
 #        - image: /images/coolroom.jpg
 #        - image: /images/darzalex.jpg
