@@ -48,18 +48,14 @@ sass:
 collections:
   collaborations:
     output: true
-  reviews:
-    output: true
-  media:
-    output: true
   gigs:
     output: true
 collections_dir: collections
 
 future: true
-#facebook_url:
-#twitter_url:
+facebook_url: https://www.facebook.com/vimala.rowe
+twitter_url: https://twitter.com/VimalaRowe
 #linkedin_url:
 #googleplus_url:
 #pinterest_url:
-#instagram_url:
+instagram_url: https://www.instagram.com/vimalarowesings
