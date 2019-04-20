@@ -6,7 +6,7 @@ permalink: /contact/
 order: 6
 
 forms:
-  - to: info@jonrowe.com
+  - to: vimala21@yahoo.com
     subject: Contact Request
     redirect: /
     form_engine: formspree
